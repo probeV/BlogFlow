@@ -12,7 +12,7 @@ export interface WritingConfig {
     body: string;
     outro: string;
   };
-  forbiddenTopics: string[]; 
+  forbiddenTopics: string[];
   writingStyle: string[];
 }
 
